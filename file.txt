@@ -1,1 +1,3 @@
-This is my fist file in git
+This is my fist file in git.
+
+Added a second line.
